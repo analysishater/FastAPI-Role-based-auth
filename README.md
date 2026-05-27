@@ -1,4 +1,15 @@
+
+# cloning takes from github to the folder , add .  at the end to not add new subfolder to stock the repo .
+# remote add origin(origin is the nick name of the repo on the local pc to avoid calling the same url at each time, we can change it whenever i want) <url> means this folder points to this repo(must the folder be empty) then pull it .
+# git push -u origin main must be used for the first tima to tell the local folder  to push to the url called origin at the branch called main(then we can do git push
+after) in the remote method , cuz clone does all this automaticlly .
+
+
+
 # FastAPI-Role Based Access Control
+
+
+
 ## There are multiple types of user like
 * customer
 * admin
